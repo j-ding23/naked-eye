@@ -1,0 +1,716 @@
+{
+  "total_divisions": 70,
+  "division_points": [
+    {
+      "index": 1,
+      "parameter_t": 0.0,
+      "point_index": 0,
+      "coordinates": {
+        "x": 258.447258,
+        "y": 21.189514,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 2,
+      "parameter_t": 0.033796,
+      "point_index": 40,
+      "coordinates": {
+        "x": 263.707474,
+        "y": 18.519104,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 3,
+      "parameter_t": 0.047641,
+      "point_index": 64,
+      "coordinates": {
+        "x": 265.718712,
+        "y": 17.112427,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 4,
+      "parameter_t": 0.055097,
+      "point_index": 81,
+      "coordinates": {
+        "x": 266.669487,
+        "y": 16.197449,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 5,
+      "parameter_t": 0.060099,
+      "point_index": 96,
+      "coordinates": {
+        "x": 267.20385,
+        "y": 15.442566,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 6,
+      "parameter_t": 0.064857,
+      "point_index": 112,
+      "coordinates": {
+        "x": 267.478371,
+        "y": 14.688477,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 7,
+      "parameter_t": 0.069754,
+      "point_index": 132,
+      "coordinates": {
+        "x": 267.422356,
+        "y": 13.815002,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 8,
+      "parameter_t": 0.07246,
+      "point_index": 143,
+      "coordinates": {
+        "x": 267.215446,
+        "y": 13.365356,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 9,
+      "parameter_t": 0.0752,
+      "point_index": 153,
+      "coordinates": {
+        "x": 266.925888,
+        "y": 12.974365,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 10,
+      "parameter_t": 0.078523,
+      "point_index": 163,
+      "coordinates": {
+        "x": 266.544716,
+        "y": 12.599487,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 11,
+      "parameter_t": 0.083161,
+      "point_index": 177,
+      "coordinates": {
+        "x": 265.866371,
+        "y": 12.100281,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 12,
+      "parameter_t": 0.090478,
+      "point_index": 195,
+      "coordinates": {
+        "x": 264.76577,
+        "y": 11.498962,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 13,
+      "parameter_t": 0.104673,
+      "point_index": 225,
+      "coordinates": {
+        "x": 262.432533,
+        "y": 10.586548,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 14,
+      "parameter_t": 0.146652,
+      "point_index": 295,
+      "coordinates": {
+        "x": 255.231552,
+        "y": 8.7854,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 15,
+      "parameter_t": 0.24057,
+      "point_index": 437,
+      "coordinates": {
+        "x": 238.963646,
+        "y": 5.579712,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 16,
+      "parameter_t": 0.262971,
+      "point_index": 481,
+      "coordinates": {
+        "x": 235.166862,
+        "y": 4.432007,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 17,
+      "parameter_t": 0.272078,
+      "point_index": 503,
+      "coordinates": {
+        "x": 233.733551,
+        "y": 3.790894,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 18,
+      "parameter_t": 0.277135,
+      "point_index": 518,
+      "coordinates": {
+        "x": 232.970444,
+        "y": 3.322144,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 19,
+      "parameter_t": 0.280446,
+      "point_index": 529,
+      "coordinates": {
+        "x": 232.532303,
+        "y": 2.960327,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 20,
+      "parameter_t": 0.282942,
+      "point_index": 539,
+      "coordinates": {
+        "x": 232.229279,
+        "y": 2.617126,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 21,
+      "parameter_t": 0.285154,
+      "point_index": 548,
+      "coordinates": {
+        "x": 232.03833,
+        "y": 2.295898,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 22,
+      "parameter_t": 0.287989,
+      "point_index": 561,
+      "coordinates": {
+        "x": 231.906647,
+        "y": 1.810059,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 23,
+      "parameter_t": 0.292021,
+      "point_index": 578,
+      "coordinates": {
+        "x": 232.007568,
+        "y": 1.133301,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 24,
+      "parameter_t": 0.295141,
+      "point_index": 590,
+      "coordinates": {
+        "x": 232.277008,
+        "y": 0.625366,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 25,
+      "parameter_t": 0.299105,
+      "point_index": 602,
+      "coordinates": {
+        "x": 232.720024,
+        "y": 0.090759,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 26,
+      "parameter_t": 0.305299,
+      "point_index": 617,
+      "coordinates": {
+        "x": 233.530678,
+        "y": -0.616943,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 27,
+      "parameter_t": 0.317007,
+      "point_index": 639,
+      "coordinates": {
+        "x": 235.268204,
+        "y": -1.739502,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 28,
+      "parameter_t": 0.35511,
+      "point_index": 687,
+      "coordinates": {
+        "x": 241.400452,
+        "y": -4.663452,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 29,
+      "parameter_t": 0.394579,
+      "point_index": 740,
+      "coordinates": {
+        "x": 247.40773,
+        "y": -7.951416,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 30,
+      "parameter_t": 0.411688,
+      "point_index": 774,
+      "coordinates": {
+        "x": 249.873207,
+        "y": -9.776978,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 31,
+      "parameter_t": 0.421332,
+      "point_index": 798,
+      "coordinates": {
+        "x": 251.046913,
+        "y": -10.948792,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 32,
+      "parameter_t": 0.427989,
+      "point_index": 819,
+      "coordinates": {
+        "x": 251.731094,
+        "y": -11.902954,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 33,
+      "parameter_t": 0.433644,
+      "point_index": 841,
+      "coordinates": {
+        "x": 252.140266,
+        "y": -12.838196,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 34,
+      "parameter_t": 0.442159,
+      "point_index": 879,
+      "coordinates": {
+        "x": 252.209198,
+        "y": -14.318298,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 35,
+      "parameter_t": 0.448744,
+      "point_index": 909,
+      "coordinates": {
+        "x": 251.795959,
+        "y": -15.385803,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 36,
+      "parameter_t": 0.455684,
+      "point_index": 939,
+      "coordinates": {
+        "x": 251.068985,
+        "y": -16.38324,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 37,
+      "parameter_t": 0.469163,
+      "point_index": 991,
+      "coordinates": {
+        "x": 249.333595,
+        "y": -17.997742,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 38,
+      "parameter_t": 0.491291,
+      "point_index": 1074,
+      "coordinates": {
+        "x": 246.351654,
+        "y": -20.474976,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 39,
+      "parameter_t": 0.499176,
+      "point_index": 1108,
+      "coordinates": {
+        "x": 245.431961,
+        "y": -21.527161,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 40,
+      "parameter_t": 0.504946,
+      "point_index": 1136,
+      "coordinates": {
+        "x": 244.947464,
+        "y": -22.437195,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 41,
+      "parameter_t": 0.512469,
+      "point_index": 1173,
+      "coordinates": {
+        "x": 244.818863,
+        "y": -23.725952,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 42,
+      "parameter_t": 0.516913,
+      "point_index": 1193,
+      "coordinates": {
+        "x": 245.046204,
+        "y": -24.473877,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 43,
+      "parameter_t": 0.521383,
+      "point_index": 1211,
+      "coordinates": {
+        "x": 245.45771,
+        "y": -25.18335,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 44,
+      "parameter_t": 0.527099,
+      "point_index": 1229,
+      "coordinates": {
+        "x": 246.085579,
+        "y": -25.931274,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 45,
+      "parameter_t": 0.53574,
+      "point_index": 1252,
+      "coordinates": {
+        "x": 247.23391,
+        "y": -26.948853,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 46,
+      "parameter_t": 0.551539,
+      "point_index": 1284,
+      "coordinates": {
+        "x": 249.549522,
+        "y": -28.493896,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 47,
+      "parameter_t": 0.588486,
+      "point_index": 1337,
+      "coordinates": {
+        "x": 255.428062,
+        "y": -31.412537,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 48,
+      "parameter_t": 0.611886,
+      "point_index": 1364,
+      "coordinates": {
+        "x": 259.069557,
+        "y": -33.313049,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 49,
+      "parameter_t": 0.624623,
+      "point_index": 1382,
+      "coordinates": {
+        "x": 260.834648,
+        "y": -34.538574,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 50,
+      "parameter_t": 0.632761,
+      "point_index": 1397,
+      "coordinates": {
+        "x": 261.92775,
+        "y": -35.536377,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 51,
+      "parameter_t": 0.638743,
+      "point_index": 1410,
+      "coordinates": {
+        "x": 262.612564,
+        "y": -36.385132,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 52,
+      "parameter_t": 0.643739,
+      "point_index": 1422,
+      "coordinates": {
+        "x": 263.039291,
+        "y": -37.156128,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 53,
+      "parameter_t": 0.648866,
+      "point_index": 1435,
+      "coordinates": {
+        "x": 263.290306,
+        "y": -37.97876,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 54,
+      "parameter_t": 0.65865,
+      "point_index": 1463,
+      "coordinates": {
+        "x": 263.140228,
+        "y": -39.709961,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 55,
+      "parameter_t": 0.667307,
+      "point_index": 1485,
+      "coordinates": {
+        "x": 262.423714,
+        "y": -41.035889,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 56,
+      "parameter_t": 0.677688,
+      "point_index": 1508,
+      "coordinates": {
+        "x": 261.180367,
+        "y": -42.394897,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 57,
+      "parameter_t": 0.695236,
+      "point_index": 1540,
+      "coordinates": {
+        "x": 258.733696,
+        "y": -44.248413,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 58,
+      "parameter_t": 0.744952,
+      "point_index": 1612,
+      "coordinates": {
+        "x": 251.04705,
+        "y": -48.323975,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 59,
+      "parameter_t": 0.844755,
+      "point_index": 1743,
+      "coordinates": {
+        "x": 235.017639,
+        "y": -55.820679,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 60,
+      "parameter_t": 0.876176,
+      "point_index": 1792,
+      "coordinates": {
+        "x": 230.372658,
+        "y": -58.800415,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 61,
+      "parameter_t": 0.892458,
+      "point_index": 1823,
+      "coordinates": {
+        "x": 228.291416,
+        "y": -60.77002,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 62,
+      "parameter_t": 0.905871,
+      "point_index": 1853,
+      "coordinates": {
+        "x": 227.093723,
+        "y": -62.751709,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 63,
+      "parameter_t": 0.916916,
+      "point_index": 1881,
+      "coordinates": {
+        "x": 226.832321,
+        "y": -64.678223,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 64,
+      "parameter_t": 0.922529,
+      "point_index": 1894,
+      "coordinates": {
+        "x": 227.026581,
+        "y": -65.600464,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 65,
+      "parameter_t": 0.927801,
+      "point_index": 1906,
+      "coordinates": {
+        "x": 227.398056,
+        "y": -66.468384,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 66,
+      "parameter_t": 0.933741,
+      "point_index": 1918,
+      "coordinates": {
+        "x": 227.963737,
+        "y": -67.353149,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 67,
+      "parameter_t": 0.941247,
+      "point_index": 1931,
+      "coordinates": {
+        "x": 228.806686,
+        "y": -68.331177,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 68,
+      "parameter_t": 0.951841,
+      "point_index": 1947,
+      "coordinates": {
+        "x": 230.190079,
+        "y": -69.564331,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 69,
+      "parameter_t": 0.968607,
+      "point_index": 1968,
+      "coordinates": {
+        "x": 232.620491,
+        "y": -71.234863,
+        "z": -20.060627
+      }
+    },
+    {
+      "index": 70,
+      "parameter_t": 1.0,
+      "point_index": 1999,
+      "coordinates": {
+        "x": 237.583626,
+        "y": -73.815308,
+        "z": -20.060627
+      }
+    }
+  ],
+  "statistics": {
+    "parameter_range": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "index_range": {
+      "min": 0,
+      "max": 1999
+    },
+    "total_curve_points": 2000
+  }
+}
